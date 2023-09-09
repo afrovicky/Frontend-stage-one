@@ -8,7 +8,7 @@ body {
     display: grid;
      justify-content: center;
     background: rgb(238, 243, 243);
-    padding:10rem;
+    padding:1rem;
 }
 
 .container {
